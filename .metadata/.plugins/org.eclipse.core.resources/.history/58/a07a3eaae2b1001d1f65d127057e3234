@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package sec01.exam03;
+
+/**
+ * @author Administrator
+ *
+ */
+public class VariableExchangeExample {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
