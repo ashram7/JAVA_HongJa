@@ -2,8 +2,8 @@ package sec01.exam01;
 
 public class StringEqualsExample {
 	public static void main(String[] args) {	
-		String strVar1 = "신민철";
-		String strVar2 = "신민철";
+		String strVar1 = "오윤석";
+		String strVar2 = "오윤석";
 		
 		if(strVar1 == strVar2) {
 			System.out.println("strVar1과 strVar2는 참조가 같음");
