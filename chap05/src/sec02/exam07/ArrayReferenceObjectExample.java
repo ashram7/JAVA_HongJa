@@ -12,4 +12,3 @@ public class ArrayReferenceObjectExample {
 		System.out.println( strArray[0].equals(strArray[2]) );
 	} 
 }
-

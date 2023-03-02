@@ -15,8 +15,8 @@ public class StringEqualsExample {
 			System.out.println("strVar1과 strVar2는 문자열이  같음");
 		}
 		
-		String strVar3 = new String("신민철");
-		String strVar4 = new String("신민철");
+		String strVar3 = new String("오윤석");
+		String strVar4 = new String("오윤석");
 		
 		if(strVar3 == strVar4) {
 			System.out.println("strVar3과 strVar4는 참조가 같음");
