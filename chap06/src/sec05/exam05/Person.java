@@ -1,7 +1,7 @@
 package sec05.exam05;
 
 public class Person {
-	final String nation = "Korea";
+	static final String nation = "Korea";
 	final String ssn;
 	String name;
 	

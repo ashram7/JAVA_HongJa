@@ -5,7 +5,8 @@ public class CarExample {
 		Car myCar = new Car();
 		
 		//잘못된 속도 변경
-		myCar.setSpeed(-50);
+		//myCar.setSpeed(-50);
+		myCar.setSpeed(50);
 		
 		System.out.println("현재 속도: " + myCar.getSpeed());
 		
