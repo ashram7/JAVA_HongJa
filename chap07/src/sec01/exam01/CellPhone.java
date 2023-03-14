@@ -15,3 +15,4 @@ public class CellPhone {
 	void receiveVoice(String message) { System.out.println("상대방: " + message); }	
 	void hangUp() { System.out.println("전화를 끊습니다."); }
 }
+
